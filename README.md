@@ -7,6 +7,7 @@ I'm a backend developer who occasionally moonlights as a frontend developer (not
 When I'm not wrestling with CSS, I work on some pretty cool projects. Check them out:
 - [Socialismus](https://github.com/whereareiam/Socialismus): A Minecraft chat plugin that's as revolutionary as its name suggests!
 - [Yui](https://github.com/whereareiam/Yui): A framework on top of the JDA library that simplifies creation of multilingual, plugin‑extendable Discord bots.
+- [Configura](https://github.com/whereareiam/Configura): A type-safe configuration framework for Java that merges flexibility with structure.
 
 ## 🚀 Things I am familiar with
 
