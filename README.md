@@ -4,6 +4,7 @@ Backend developer from Germany whose heart beats for Java ☕️. I like systems
 and just a little over-engineered in the best way possible.
 
 - [Anvil](https://github.com/whereareiam/anvil): Unit tests for Minecraft, except the server is real and the players are bots who actually join. No more "works on my server".
+- [Forgejo GitHub Theme](https://github.com/whereareiam/forgejo-github-theme): Your Forgejo, but it looks like GitHub, down to the last border radius.
 - [Identica](https://github.com/whereareiam/Identica): Modular next-gen Minecraft identity plugin with pluggable providers.
 - [Socialismus](https://github.com/whereareiam/Socialismus): A Minecraft chat plugin that's as revolutionary as its name suggests!
 - [Configura](https://github.com/whereareiam/configura), [Dialectica](https://github.com/whereareiam/dialectica) and [Semantica](https://github.com/whereareiam/semantica): Configuration, database and translation libraries for the JVM.
